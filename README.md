@@ -20,3 +20,4 @@ The designs are in JPG static format. This will mean that you'll need to use you
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+To change code please edit home.html file
